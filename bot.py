@@ -8,7 +8,7 @@ import logging
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater, CallbackQueryHandler, CommandHandler, MessageHandler, Filters
 
-link = 'https://ulkabo.github.io/bot-KMAD-17-00/data/'
+link = 'https://maksimkkkk.github.io/MAKSim/'
 
 # Enable logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
